@@ -1,5 +1,5 @@
 # Photo Organizing
-When exporting the entire collection of photos from Google Photos or from my old iPhone, the result is not at all user friendly. The purpose of these programs is to rename all the photos using dates from their metadata so that they can be browsed in a logical order. 
+### When exporting the entire collection of photos from Google Photos or from my old iPhone, the result is not at all user friendly. The purpose of these programs is to rename all the photos using dates from their metadata so that they can be browsed in a logical order. 
 
 ## iPhone Organizing
 I should preface this project by saying, if I were using a Mac, this process would be unnecessary. Rather, I've resorted to copying the photo files directly from my phone to my Linux PC. The copied photos are distributed within several folders. Inside each folder are photos from similar dates, but the file names used are inconsistent. Photos taken with the phone's camera have a sequential pattern, except the edited copies are prepending with an "E", and saved photos have a seemingly random naming convention - it's a bit of a mess. The file's modified date is sometimes months away from the date the photo was taken, so sorting by that is still not correct. 
